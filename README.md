@@ -85,4 +85,4 @@ Business Analyst × AI Systems Builder
 [LinkedIn](https://www.linkedin.com/in/abisla)
 
 ## 🛡️ License
-MIT
+MIT License — [View License](LICENSE)
